@@ -7,14 +7,14 @@ Sou estudante de Análise e Desenvolvimento de Sistemas com vivência em ambient
 - 🧠 Gosto de resolver problemas com programação
 - 🤝 Aberto a colaborações e novos projetos
 
-![Soft Skilss](https://img.shields.io/badge/SoftSkills-orange?style=for-the-badge&logo=SoftSkills)
-Trabalho em equipe 
+![Soft Skilss](https://img.shields.io/badge/SoftSkills-orange?style=for-the-badge&logo=SoftSkills)  
+Trabalho em equipe  
 Gerenciamento de tempo  
 Comunicação  
 Resolução de problemas  
 Aprendizado contínuo  
 
-![Hard Skills](https://img.shields.io/badge/HardSkills-blue?style=for-the-badge&logo=HardSkills)
+![Hard Skills](https://img.shields.io/badge/HardSkills-blue?style=for-the-badge&logo=HardSkills)  
 Lógica de programação  
 Banco de dados  
 Estrutura de dados 
